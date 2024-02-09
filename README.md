@@ -1,5 +1,7 @@
 # Classification-and-Segmentation-of-Breast-Cancer-Ultrasound-Images
 
+## Course project for 02-718 Computational Medicine at Carnegie Mellon Univerisity
+
 ## Team members: Lu Qiao, I-Shu Wang 
 
 ## Introduction
